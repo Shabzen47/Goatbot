@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "botd8143@gmail.com",
+    "password": "DANIEL47bot",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,18 +17,18 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100000768468627",
+    "61560367375215",
     "100030205562796",
     "",
     "",
     "100082247235177"
   ],
   "GOD": [
-    "100000768468627",
+    "61560367375215",
     "100089495797706"
   ],
   "DEV": [
-    "100000768468627",
+    "61560367375215",
     "100089495797706"
   ],
   "whiteListMode": {
@@ -36,10 +36,10 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𓆩X-NiL‣᭄𓆪-143🔥",
-  "authorName": "𝐗𝐍𝐈𝐋",
-  "authorFB": "https://www.facebook.com/xnilxhowdhury143",
-  "authorEmail": "xnilxhowdhury@gmail.com",
+  "nickNameBot": "𓆩Spidey bot🔥",
+  "authorName": "MR KEN KANEKI SIR",
+  "authorFB": "KEN KANEKI",
+  "authorEmail": "botd8143@gmail.com",
   "prefix": "/",
   "database": {
     "type": "sqlite",
